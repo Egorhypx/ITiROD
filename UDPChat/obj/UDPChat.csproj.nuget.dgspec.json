@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OOP\\Lab_1\\Lab_1\\Lab_1.csproj": {}
+    "E:\\Itirod\\UDPChat\\UDPChat\\UDPChat.csproj": {}
   },
   "projects": {
-    "E:\\OOP\\Lab_1\\Lab_1\\Lab_1.csproj": {
+    "E:\\Itirod\\UDPChat\\UDPChat\\UDPChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OOP\\Lab_1\\Lab_1\\Lab_1.csproj",
-        "projectName": "Lab_1",
-        "projectPath": "E:\\OOP\\Lab_1\\Lab_1\\Lab_1.csproj",
+        "projectUniqueName": "E:\\Itirod\\UDPChat\\UDPChat\\UDPChat.csproj",
+        "projectName": "UDPChat",
+        "projectPath": "E:\\Itirod\\UDPChat\\UDPChat\\UDPChat.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\OOP\\Lab_1\\Lab_1\\obj\\",
+        "outputPath": "E:\\Itirod\\UDPChat\\UDPChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

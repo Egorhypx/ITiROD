@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Lab_1/1.0.0": {
+      "UDPChat/1.0.0": {
         "runtime": {
-          "Lab_1.dll": {}
+          "UDPChat.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Lab_1/1.0.0": {
+    "UDPChat/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

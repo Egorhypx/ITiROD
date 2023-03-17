@@ -1,0 +1,15 @@
+E:\Itirod\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.exe
+E:\Itirod\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.deps.json
+E:\Itirod\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.runtimeconfig.json
+E:\Itirod\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.dll
+E:\Itirod\UDPChat\UDPChat\bin\Debug\net6.0\UDPChat.pdb
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.csproj.AssemblyReference.cache
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.AssemblyInfoInputs.cache
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.AssemblyInfo.cs
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.csproj.CoreCompileInputs.cache
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.dll
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\refint\UDPChat.dll
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.pdb
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\UDPChat.genruntimeconfig.cache
+E:\Itirod\UDPChat\UDPChat\obj\Debug\net6.0\ref\UDPChat.dll
